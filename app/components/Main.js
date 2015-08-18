@@ -6,7 +6,7 @@ var hello   = require('./hello');
 var Hello = React.createClass({
   render: function() {
     return (
-      <h2>Hello {hello.sayHello('Ahmad :)')}</h2>
+      <h2>Hello {hello.sayHello('React :)')}</h2>
       );
   }
 })

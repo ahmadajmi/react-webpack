@@ -57,7 +57,7 @@
 	      'h2',
 	      null,
 	      'Hello ',
-	      hello.sayHello('Ahmad :)')
+	      hello.sayHello('React :)')
 	    );
 	  }
 	});
